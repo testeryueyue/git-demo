@@ -1,3 +1,3 @@
 hello git master
-hello git 
+hello git 验证免费登录直接线上修改了岳不群远程库代码，看客户端是否可以免密拉取
 hello git new-fix
